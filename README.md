@@ -3,6 +3,7 @@
 This web application, called the Emergency Waitlist, is designed to assist hospital staff and patients in managing and understanding wait times in the emergency room. It allows staff to administer the waitlist based on the severity of injuries and the length of time patients have been waiting. Patients can sign in with their name and receive an approximate wait time, which is updated as patients are treated.
 
 **Usage**
+
 Admin Perspective:
 - Login: Admins can log in using their username and password. If not already signed up, they can create an account.
 - View Waitlist: After logging in, admins can view the list of patients waiting in the emergency room. The list includes patient details such as name, gender, condition, severity, and wait time.
