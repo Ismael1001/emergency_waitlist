@@ -22,4 +22,5 @@ Patient Perspective:
 - Other: Fetch API for client-server communication
 
 Note:
+
 This implementation uses Node.js instead of PHP for server-side interactions, maintaining a similar level of complexity and functionality as required by the assignment.
